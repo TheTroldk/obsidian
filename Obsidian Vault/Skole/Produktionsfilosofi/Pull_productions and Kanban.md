@@ -1,0 +1,3 @@
+### Pull_Procution_Definition
+- Pull-through production utilizes a pull system, a method for controlling the flow of resources through a system. Resources are pulled into the production pipeline only as they are actually needed or requested.
+- Pull Propduction: Since most customers take only what they immediately need from the shelves, and since supermarkets order just, what they need to replenish stock on the shelves, the customers, in effect, pull material through the system. This is the concept of pull production.
